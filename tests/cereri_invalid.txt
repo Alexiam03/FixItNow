@@ -1,0 +1,6 @@
+10 T Sony Bravia 12 01 2026 09 30 3 
+11 M Necunoscut ModelX 12 01 2026 10 00 0
+12 F Arctic A+ 12 01 2026 10 15 0
+13 Telefon Samsung S20 12 01 2026 11 00 1
+14 Date Incomplete Test
+15 Televizor Samsung QLED_X1 DataGresita 09 00 3

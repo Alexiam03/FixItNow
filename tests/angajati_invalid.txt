@@ -1,0 +1,4 @@
+6 T Eroare CNP 123 01 01 2023 Brasov
+7 R NumeScurt A 2950505123456 10 10 2021 Cluj
+8 T Data Gresita 1900101123456 32 13 2022 Bucuresti
+9 AngajatInexistent Test Test 1900101123456 01 01 2020 Sibiu

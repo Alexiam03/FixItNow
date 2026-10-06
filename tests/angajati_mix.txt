@@ -1,0 +1,12 @@
+10 R Popa Alina 2990404123456 12 02 2023 Bucuresti
+11 T Eroare CNP 123 01 01 2020 Bucuresti
+12 S Stoica Dan 1700505123456 10 10 2019 Brasov
+13 T Nume Scurt 1800101123456 01 01 2020 B
+14 R Test Data 2990404123456 35 02 2023 Bucuresti
+15 T Radu Mircea 1880808123456 15 06 2021 Cluj
+16 AngajatInexistent Ion Vasile 1900101123456 01 01 2022 Timisoara
+1 R Popescu Maria 6051203410063 10 10 2021 Cluj
+2 T Ionescu Vasile 1820624414989 15 03 2022 Bucuresti
+3 T Georgescu Andrei 5051206100130 20 05 2023 Ilfov
+4 T Dumitru Elena 6020726460021 01 02 2019 Bucuresti
+5 S Coman Mihai 2820624044984 01 01 2020 Bucuresti

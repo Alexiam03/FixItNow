@@ -1,0 +1,6 @@
+20 T Philips Ambilight 15 01 2026 10 00 3
+21 T Sony Trinitron 15 01 2026 10 30 4
+22 F Liebherr Premium 15 01 2026 11 00 5
+23 M Bosch Series6 15 01 2026 11 30 0
+24 Eroare Format Test
+25 F Beko Negativ 15 01 2026 12 00 3

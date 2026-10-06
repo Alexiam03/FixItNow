@@ -1,0 +1,6 @@
+T Sony Bravia 2020 -100 100
+F Beko X -2020 1000 1
+M Indesit M1 2020 100 -5
+T Panasonic P1 2020 1000 0
+Toaster Philips T1 2022 200 0
+M Test T2 2020

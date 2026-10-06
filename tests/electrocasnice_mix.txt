@@ -1,0 +1,7 @@
+T Philips Ambilight 2022 2800 108
+F Beko Negativ 2021 -1500 1
+F Liebherr Premium 2023 4500 1
+M Indesit ZeroCap 2020 1200 0
+M Bosch Series6 2021 2200 9
+Cuptor Samsung Hot 2022 1000 0
+T Sony FaraDiag 2022 2000 0

@@ -1,0 +1,6 @@
+T Samsung QLED_X1 2021 3000 125
+T LG NanoCell 2022 2500 100
+F Arctic A+ 2020 1500 1
+F Samsung SmartCool 2023 4000 0
+M Whirlpool EcoBubble 2022 2000 8
+M Arctic Basic 2019 1200 6
